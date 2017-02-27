@@ -1,0 +1,11 @@
+89  1  5 
+   8 6   
+4  7 2  1
+ 36   7  
+ 2 4 9 3 
+5   7 69 
+2  5 7  8
+ 78  1   
+ 1    347
+
+Example taken from Metro, 14 November 2016, p.28 Moderate

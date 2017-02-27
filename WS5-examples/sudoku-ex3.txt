@@ -1,0 +1,11 @@
+ 4   7 9 
+2      84
+   69     
+  7 4   9
+  59 32  
+4   8 3  
+    76   
+72      5
+ 5 2   1 
+
+Example taken from Metro, 21 September 2016, p.38 Challenging
